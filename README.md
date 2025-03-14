@@ -1,7 +1,6 @@
 # React and Redux Toolkit
 
 ## What Is "Redux"?
-Redux is really:
 
 - A single store containing "global" state
 - Dispatching plain object actions to the store when something happens in the app
